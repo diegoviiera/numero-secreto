@@ -19,7 +19,7 @@ def jogar():
     print("Fim do jogo")
 
     print ("Teste do primeiro commit")
-    print ("Segundo teste")
+    print ("terceiro teste")
 
 
 if (__name__ == "__main__"):
